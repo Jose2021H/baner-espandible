@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.elmandarin.bannerlib'
-    compileSdk 34
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.elmandarin.bannerlib"
